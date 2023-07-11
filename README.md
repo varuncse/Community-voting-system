@@ -1,5 +1,5 @@
 # Community voting system using blockchain and solidity in ethereum network
-This is a system designedto enable secure and transparent voting on
+This is a system designed to enable secure and transparent voting on
 issues related to community management, decision-making, and
 governance. 
 
